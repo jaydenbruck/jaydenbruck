@@ -1,42 +1,33 @@
 # Jayden Bruck
 
-Founder of [WealthAI](https://wealthai.trade), building AI-native systems for market intelligence, quantitative research, and automated decision infrastructure.
+I build AI products that do things for people instead of just answering questions.
+I'm 17, based near Frankfurt.
 
-I work at the intersection of markets, machine learning, data engineering, and research automation. My focus is turning complex, noisy financial data into structured systems that can be tested, validated, and improved with discipline.
+### Founder — Ola
 
-## Current Focus
+A personal AI agent that browses the web, calls businesses and people on your behalf,
+builds any app, and gets things done for you. It's proactive, and it knows you intimately.
+Currently in closed beta.
 
-- AI-native market intelligence systems
-- Quantitative research infrastructure
-- Cross-asset data pipelines
-- Model evaluation and validation frameworks
-- Backtesting and simulation tooling
-- Agent-orchestrated research workflows
-- GPU and cloud research automation
-- Systematic trading research
+**[tryola.ai](https://tryola.ai)**
 
-## Background
+### Co-Founder — Wealth AI
 
-I have spent more than four years trading, researching markets, and building systematic trading infrastructure.
+An automated crypto trading platform. Users set their risk level, connect an exchange,
+and let the system trade for them. Live with users.
 
-My experience includes internships at JP Morgan Chase, Deka Bank, and Deka Investment's Quantitative Asset Management team in Frankfurt, with exposure to market microstructure, derivatives, fixed income, systematic alpha research, and machine learning in multi-asset frameworks.
+**[wealthai.trade](https://wealthai.trade)**
 
-## Building
+### How I build
 
-At WealthAI, I lead product, AI research, quantitative systems, trading research, and partnerships.
+I'm good at turning ambitious ideas into products fast, and at building with AI at scale.
+My multi-agent setup writes, tests and ships code, running up to hundreds of agents in parallel.
 
-The long-term goal is to build infrastructure that makes advanced market research more rigorous, scalable, and accessible without relying on emotion, hype, or untested assumptions.
+### Before this
 
-## Principles
+Interned at JPMorgan, and at Deka Investment on the Quantitative Asset Management desk
+and in Capital Markets. Trading since 13.
 
-- Systems over opinions
-- Validation over narratives
-- Infrastructure over shortcuts
-- Risk control over prediction theater
-- Compounding through disciplined execution
+---
 
-## Links
-
-- Company: [wealthai.trade](https://wealthai.trade)
-- LinkedIn: [jaydenbruck.com](https://jaydenbruck.com)
-- WealthAI LinkedIn: [linkedin.com/company/wealthai-trade](https://www.linkedin.com/company/wealthai-trade/)
+[tryola.ai](https://tryola.ai) · [LinkedIn](https://www.linkedin.com/in/jayden-bruck-b142422b1/)
