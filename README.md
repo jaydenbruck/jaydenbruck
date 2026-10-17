@@ -30,4 +30,4 @@ and in Capital Markets. Trading since 13.
 
 ---
 
-[tryola.ai](https://tryola.ai) · [LinkedIn](https://www.linkedin.com/in/jayden-bruck-b142422b1/)
+[jaydenbruck.com](https://jaydenbruck.com) · [tryola.ai](https://tryola.ai) · [LinkedIn](https://www.linkedin.com/in/jayden-bruck-b142422b1/)
