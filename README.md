@@ -26,7 +26,7 @@ My multi-agent setup writes, tests and ships code, running up to hundreds of age
 ### Before this
 
 Interned at Deka Investment on the Quantitative Asset Management desk
-and in Capital Markets. Trading since 13.
+and in Capital Markets. Investing since 12.
 
 ---
 
